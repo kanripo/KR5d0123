@@ -1,0 +1,8 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 鳴鶴餘音
+#+DATE: 2015-08-29 02:05:41
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS CK-KZ
+#+PROPERTY: JUAN 0
+
+
